@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8b5e9fd9-8bbd-4379-86b3-4c80e200ca11">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/aaa68543-832f-4719-882b-55a52d69ac7b")
+">
+  <img alt="Shows project promo image in light and dark mode" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
